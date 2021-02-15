@@ -56,7 +56,6 @@ LinkingTo: Rcpp, RcppArmadillo, RcppEigen, RcppProgress, igraph
 NeedsCompilation: yes
 Remotes:
     kharchenkolab/sccore,
-    fhermans27/ComplexHeatmap,
     cran/clues,
     rstudio/d3heatmap
 Author: Peter Kharchenko [cre, aut], Nikolas Barkas [aut], Viktor Petukhov [aut], Evan Biederstedt [aut]
